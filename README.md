@@ -3,7 +3,7 @@
 
 # Working with Martin
 
-## [managers-readme](https://github.com/muridil/managers-readme)
+## [manager-readme](https://github.com/muridil/manager-readme)
 
 **Author**: [Martin Uridil](https://www.linkedin.com/in/muridil/)
 
