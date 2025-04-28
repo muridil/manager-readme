@@ -32,11 +32,19 @@ While Engineering Managers focus on the short term—typically sprints or even d
 
 ## North Star Principles
 
+### Collaborative Teams
+
+Building software is a team sport, and collaboration is a multiplier that we should optimize for.
+I firmly believe that fostering a culture of collaboration and team ownership is key.
+That’s why it’s important to define clear team boundaries and explicitly state where each team’s remit lies.
+
+End-to-end team ownership is at the core of my approach.
+The principle of “You design it, you build it, you run it” empowers teams to take full responsibility for their work from design to deployment and especially beyond.
+
 ### People First
 
 I love working with motivated—and especially self-motivated—people.  
-Software development isn’t a linear process, and I truly believe that a motivated individual can create 10–50x more value than someone who’s just ticking off tasks.  
-Collaboration is a multiplier, and we should optimize for it.
+Software development isn’t a linear process, and I truly believe that a motivated individual can create 10–50x more value than someone who’s just ticking off tasks.
 
 That’s why I tend to focus on creative solutions before reaching for more resources.  
 The right people, given the right environment, can achieve extraordinary things.  
